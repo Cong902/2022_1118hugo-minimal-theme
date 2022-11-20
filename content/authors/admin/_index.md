@@ -12,6 +12,7 @@ role: ''
 # Status emoji
 status:
   icon: ☕️
+  
 
 # Organizations/Affiliations
 #organizations:
